@@ -7,3 +7,7 @@ def index(request):
 
     # Page from the theme 
     return render(request, 'pages/index.html')
+
+
+def Dugs(request):
+    return 0
